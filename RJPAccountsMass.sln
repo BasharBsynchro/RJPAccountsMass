@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJPAccountsMass", "RJPAccounts\RJPAccountsMass.csproj", "{922B778E-B3A9-4C17-8482-011A5F3ABBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJPBalanceToUpdate", "..\RJPBalanceToUpdate\RJPBalanceToUpdate\RJPBalanceToUpdate.csproj", "{0CD5EDF7-1907-6A27-8FD0-7E725243FFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922B778E-B3A9-4C17-8482-011A5F3ABBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B778E-B3A9-4C17-8482-011A5F3ABBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B778E-B3A9-4C17-8482-011A5F3ABBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B778E-B3A9-4C17-8482-011A5F3ABBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD5EDF7-1907-6A27-8FD0-7E725243FFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD5EDF7-1907-6A27-8FD0-7E725243FFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD5EDF7-1907-6A27-8FD0-7E725243FFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD5EDF7-1907-6A27-8FD0-7E725243FFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3B43DD-F840-4FFA-A533-C910B72382EA}
+	EndGlobalSection
+EndGlobal

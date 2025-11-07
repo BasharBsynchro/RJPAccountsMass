@@ -1,0 +1,6 @@
+@RJPAccounts_HostAddress = http://localhost:5287
+
+GET {{RJPAccounts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
